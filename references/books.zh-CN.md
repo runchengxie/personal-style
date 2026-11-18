@@ -19,11 +19,11 @@
 
 ### Bernhard Roetzel《绅士》相关版本
 
-这套书讨论经典男装。把它作为研究传统服装和着装语境的入口，休闲或运动服装需要另找资料。
+这套书讨论经典男装，可以作为研究传统服装和着装语境的入口。本库尚未评估它对当代休闲及运动场景的覆盖。
 
 本次核对的是 Ullmann 的 2023 年德文版，ISBN `9783741527043`，408 页；另查英文官方样章，书名为 Gentleman，副题 A Timeless Guide to Fashion，ISBN `9783848002627`。两个版本的书目信息不能互换。
 
-中文常见名称为《绅士》或《绅士·永恒的时尚导读》。既有对话中的中文版出版年、页数和 ISBN 仍列在 [P-003](pending.zh-CN.md#p-003)，尚未据中文版权页核实。
+建库对话使用《绅士》或《绅士·永恒的时尚导读》称呼这本书。中文版副题、出版年、页数和 ISBN 仍列在 [P-003](pending.zh-CN.md#p-003)，尚未据中文版权页核实。
 
 来源为[出版社德文版页面](https://www.ullmannmedien.com/shop/mode/der-gentleman-aktualisierte-ausgabe-2023/)和[出版社英文样章](https://www.ullmannmedien.com/wp-content/uploads/2013/02/leseprobe-gentleman-gb-hfullmann-978-3-8480-0262-7.pdf)。后者只作为授权预览链接，不在本库保存文件。
 
