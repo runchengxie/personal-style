@@ -1,0 +1,13 @@
+# Local records belong outside the public repository.
+/private/
+/local/
+/.superpowers/
+.DS_Store
+__pycache__/
+*.pyc
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.pdf
+*.mp4
