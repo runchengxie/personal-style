@@ -22,6 +22,7 @@
 
 - 准备[理发沟通单](hair/barber-brief.zh-CN.md)，对照[发型变量](hair/hairstyles.zh-CN.md)选两三个方案。
 - 浏览[书目](references/books.zh-CN.md)、[课程与论文](references/resources.zh-CN.md)及[待核实线索](references/pending.zh-CN.md)。
+- 查阅原聊天的[推荐清单与阅读顺序](references/chat-recommendations.zh-CN.md)、[教程观点](hair/tutorial-claims.zh-CN.md)和[通用待试方案](hair/trial-plans.zh-CN.md)，每项保留核实状态及限制。
 - 填模板之前，先看[公开与私人资料的边界](docs/privacy.zh-CN.md)。
 
 补充内容请看[贡献说明](CONTRIBUTING.zh-CN.md)。资料以链接和原创笔记为主，不上传书籍扫描件或未经授权的参考图片。首版直接在 GitHub 阅读，没有网站或应用部署。

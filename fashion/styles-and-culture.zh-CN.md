@@ -6,6 +6,8 @@
 
 本页核对了 Ametora 的出版社介绍，以及一篇头发形态研究的摘要。文化史资料与形态研究回答不同的问题，都没有验证某种风格对哪一人群最好看。
 
+原聊天的研究引用现有[逐项对应表](../references/chat-recommendations.zh-CN.md)。新增的亚洲头发综述 [R-002](../references/resources.zh-CN.md#r-002)与韩流专题导论 [R-003](../references/resources.zh-CN.md#r-003)也只读到摘要，不据此推导个人造型适配。
+
 ## 分开三个问题
 
 | 问题 | 要研究的对象 | 怎样继续 |

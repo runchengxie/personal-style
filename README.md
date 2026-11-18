@@ -22,6 +22,7 @@ Read the [learning route](docs/start-here.zh-CN.md), choose one question, then u
 
 - Prepare a [barber brief](hair/barber-brief.zh-CN.md) and compare [hairstyle variables](hair/hairstyles.zh-CN.md).
 - Browse [books](references/books.zh-CN.md), [courses and papers](references/resources.zh-CN.md), and [unverified leads](references/pending.zh-CN.md).
+- Find the founding chat's [recommendation list and reading order](references/chat-recommendations.zh-CN.md), [tutorial claims](hair/tutorial-claims.zh-CN.md), and [general trial plans](hair/trial-plans.zh-CN.md), with verification limits recorded.
 - Read the [public/private boundary](docs/privacy.md) before filling in templates.
 
 Contributions follow [CONTRIBUTING.md](CONTRIBUTING.md). Source links and original summaries are preferred to copied images or scans. There is no website or application deployment in this edition.
